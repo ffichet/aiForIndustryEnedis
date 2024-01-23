@@ -1,5 +1,6 @@
 data/*
-
+tristan.ipynb
+*.html
 # MacOS files
 .DS_Store
 
