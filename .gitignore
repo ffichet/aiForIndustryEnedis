@@ -2,7 +2,7 @@ data/*
 tristan.ipynb
 *.html
 .idea*
-
+*.csv
 # MacOS files
 .DS_Store
 
